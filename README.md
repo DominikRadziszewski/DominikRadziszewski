@@ -8,7 +8,8 @@ I'm Dominik Radziszewski, a budding PHP developer eager to embark on my professi
 Proficient in PHP, with a focus on laravel.
 Familiarity with JS/HTML/CSS/JQuery/SQL.
 🛠️ Projects:
-I've actively worked on shop project[https://github.com/DominikRadziszewski/Shop]. These experiences have not only honed my coding abilities but have also instilled in me a passion for crafting efficient and scalable solutions.
+I am currently working on a new project, Budget calculator[https://github.com/DominikRadziszewski/Expense_Calculator]. 
+I am pleased to announce the successful completion of the Shop Project, available at [https://github.com/DominikRadziszewski/Shop]. This development journey has been instrumental in refining my coding abilities and cultivating a genuine passion for crafting efficient and scalable solutions
 
 🌐 What I'm Looking For:
 I'm on the lookout for my first opportunity as a PHP developer, where I can apply my knowledge, learn from experienced professionals, and contribute to meaningful projects. I'm eager to be part of a collaborative team that encourages innovation and values continuous learning.
